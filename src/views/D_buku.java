@@ -278,7 +278,7 @@ public class D_buku extends javax.swing.JFrame {
                 else{
                     tkd_buku.setText("K0001");
                 }
-                tkd_buku.enable(false);
+                tkd_buku.enable(true);
                 rs.close();
                 
            }
